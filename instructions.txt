@@ -1,0 +1,14 @@
+It's all the fun of crosswords without
+needing a newspaper, pen and eraser.
+Word search puzzle
+game is an excellent way
+to spend some free time building
+your vocabulary and problem-solving
+skills, as well as a great way to keep
+your mind quick and flexible.
+
+
+search the given words in maze
+input the starting and ending 
+row coloumn values of words from
+maze.
