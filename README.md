@@ -18,6 +18,7 @@ your mind quick and flexible.
 -  I includes all the files with separate source code file 
 
 ## View
+![project display](https://github.com/chowais181/Crossword-Puzzule-in-cpp/blob/main/view.PNG)
 
 
 ## Author
